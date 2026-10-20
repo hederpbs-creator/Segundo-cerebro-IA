@@ -49,15 +49,10 @@ A diretriz aplicada foi a de atuar como um **especialista analítico em e-commer
 ---
 
 ## 📁 Arquivos do Repositório
-* `materiais/mapa_mental.png` (Mapa mental gerado pelo estúdio do notebook)
-* `materiais/slides.pdf` (Apresentação de slides gerada pelo estúdio)
-* `prints/chat_citacoes.png` (Capturas de tela evidenciando as respostas fundamentadas nas fontes)
-
-https://github.com/user-attachments/assets/f175b60c-56bd-43fb-845f-567e6cf786c6
 
 
+https://github.com/user-attachments/assets/2bcf4859-ef3b-4727-8df2-9cc6c4ba492f
 
-https://github.com/user-attachments/assets/6df8bfae-8b85-4964-a187-83b9515cb926
+[O_Mapa_dos_100k_sem_Estoque.pptx](https://github.com/user-attachments/files/33726507/O_Mapa_dos_100k_sem_Estoque.pptx)
+<img width="2297" height="1539" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/efa80d81-23fc-4127-89a7-1d2b1f78e300" />
 
-[O_Mapa_dos_100k_sem_Estoque.pptx](https://github.com/user-attachments/files/33725688/O_Mapa_dos_100k_sem_Estoque.pptx)
-<img width="2297" height="1539" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/fdf9e5e4-ed77-4c75-b86c-2dbae755c5b5" />
